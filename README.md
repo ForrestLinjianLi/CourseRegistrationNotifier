@@ -1,6 +1,6 @@
 # CourseRegistrationNotifier
 
-This is a terminal tool I implemented to check the current status (i.e the available seat information) of designated courses. Based on your need, you can search by specific course such CPSC 110 and MATH 200. Or you can also search by department such as CPSC and MATH. Then it will return a JSON reuslt, and if there is an available seat it can also send an email. So, feel free to deploy a cron job to run the script such that you will get notifications once there's an available seat for you!
+This is a terminal tool I implemented to check the current status (i.e the available seat information) of designated courses. Based on your need, you can search by specific courses such CPSC 110 and MATH 200. Or you can also search by departments such as CPSC and MATH. Then it will return a JSON reuslt, and if there is an available seat it can also send an email. So, feel free to deploy a cron job to run the script such that you will get notifications once there's an available seat for you!
 
 ###  Liberaries Applied 
 
